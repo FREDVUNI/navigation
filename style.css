@@ -1,0 +1,60 @@
+body{
+    padding:0;
+    color:#222;
+    font:normal x-small verdana,arial,helvetica,sans-serif;
+    overflow-y:scroll;
+    margin:0
+}
+#nhed{
+    margin:0;
+    padding:8px 10px;
+    background:#000;
+    border-width:0 0 1px
+}
+#hdfl{
+    max-width:1480px;
+    margin:0 auto;
+    display:flex
+}
+
+#sesh a:hover,.goj a:hover,.mfeed a:hover,a{
+    text-decoration:none
+}
+.goj{
+    font-size:24px;
+    line-height:28px
+}
+.goj a{
+    color:#fff
+}
+.goj a:hover{
+    background-color:rgba(255,255,255,.4)
+}
+.seard input,img{
+    vertical-align:top
+}
+.seard{
+    width:350px;
+    margin-left:14px;
+    max-width:60%
+}
+.seard input{
+    width:100%;
+    display:block;
+    border:0;
+    font-size:16px;
+    line-height:1.6;
+    background:rgba(255,255,255,.4);
+    color:#fff;
+    border-radius:2px;
+    padding:1px 5px
+}
+@media only screen and (min-width:768px){
+    input#_name, input[id^="_name-"] {
+        width: 290px;
+    }
+    .mxwd{max-width:1480px;margin:0 auto}
+    .rqs {
+      width:56%;
+    }
+}
