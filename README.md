@@ -54,7 +54,7 @@ navigation-bar-with-search/
 
 ## Demo
 
-You can view a live demo of the navigation bar [here](#). *(Replace `#` with your live demo link)*
+You can view a live demo of the navigation bar [here](https://fredvuni.github.io/navigation/).
 
 
 
