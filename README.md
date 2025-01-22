@@ -24,11 +24,11 @@ This project features a responsive and stylish navigation bar with a built-in se
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/navigation-bar-with-search.git
+   git clone https://github.com/FREDVUNI/navigation.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd navigation-bar-with-search
+   cd navigation
    ```
 3. Open `index.html` in your browser to view the navigation bar.
 
