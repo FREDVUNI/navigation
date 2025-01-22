@@ -45,7 +45,7 @@ This project features a responsive and stylish navigation bar with a built-in se
 ## File Structure
 
 ```
-navigation-bar-with-search/
+navigation/
 ├── index.html       # Main HTML file
 ├── style.css        # CSS file for styling
 ```
